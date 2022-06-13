@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/ezzaldinmohamed" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mohamed-alaa-el-din-mohamed" height="30" width="40" />
     </a>
-    <a href="https://www.facebook.com/people/Ezz-Aldin-Mohamed/100009081027328l" target="blank">
+    <a href="https://www.facebook.com/people/Ezz-Aldin-Mohamed/100009081027328/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="alaadragneel" height="30" width="40" />
     </a>
 </p>
