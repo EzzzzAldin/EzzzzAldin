@@ -23,6 +23,11 @@
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="30" width="40" />
     </a>
 </p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1qqm-qsYJRVIs7lc57dR4TdDip4m5DOqi/view" target="_blank">
+    <img src="https://img.shields.io/badge/📄 View My CV-000000?style=for-the-badge&logo=readme&logoColor=FFD700"/>
+  </a>
+</p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
