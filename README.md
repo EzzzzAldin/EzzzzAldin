@@ -1,97 +1,63 @@
 <h1 align="center">Hi 👋, I'm Ezz Aldin Mohamed</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Instructor</h3>
 
--   👨‍💻 I specialize in both Front-End and Back-End development, focusing on scalable and efficient web applications.
-
--   🚀 Explore all of my projects on [GitHub](https://github.com/EzzzzAldin?tab=repositories)
-
--   🎥 Watch short project demos on my [YouTube Channel](https://www.youtube.com/channel/UCGZLzYCR9sWhU-OX6qBsZ1w)
-
--   📧 Reach me at **ezzaldin77722@gmail.com**
-
--   ⚡ Fun fact: **I enjoy teaching and mentoring in programming!**
-
-<p align="left">
-    <h3 align="left">Contact or Connect with me:</h3>
-    <a href="https://wa.me/201128449516" target="blank">
-        📞 Contact Me
-    </a>
-    <a href="https://www.linkedin.com/in/ezzaldinmohamed" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/people/Ezz-Aldin-Mohamed/100009081027328/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="30" width="40" />
-    </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Full--Stack%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Instruction%20%26%20Mentoring-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Telecommunications%20Engineering-orange?style=for-the-badge" />
 </p>
+
+---
+
+### 📋 About Me
+- 👨‍💻 Currently working as a **Full-Stack Web Developer**, building scalable and user-centric web applications.
+- 🎓 **Telecommunications & Electronics Engineer** with a passion for clean code and system architecture.
+- 👨‍🏫 **Programming Instructor** specializing in Node.js, Express, and Full-Stack development.
+- 🚀 Expert in transforming complex requirements into seamless digital experiences using **MERN Stack** and **Laravel**.
+
+---
+
+### 🛠 Tech Stack
+
+#### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EzzzzAldin&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzzzzAldin&layout=compact&theme=vision-friendly-dark&langs_count=10" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ezzaldinmohamed" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/201128449516" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:ezzaldin77722@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCGZLzYCR9sWhU-OX6qBsZ1w" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1qqm-qsYJRVIs7lc57dR4TdDip4m5DOqi/view" target="_blank">
-    <img src="https://img.shields.io/badge/📄 View My CV-000000?style=for-the-badge&logo=readme&logoColor=FFD700"/>
+    <img src="https://img.shields.io/badge/📄_View_My_CV-000000?style=for-the-badge&logo=readme&logoColor=FFD700"/>
   </a>
-</p>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <h4 align="left">Markups, Scripts Languages & Design Frameworks:</h4>
-	<a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-	<a href="https://sass-lang.com" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-	<a href="https://getbootstrap.com" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <h4 align="left">Frontend & JS Frameworks:</h4>
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-    </a>
-    <h4 align="left">Programming Languages & Frameworks:</h4>
-    <a href="https://nodejs.org" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="80" height="80" />
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="80" height="80" />
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="80" height="80" />
-    </a>
-    <h4 align="left">Databases:</h4>
-	<a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
-    </a>
-    <h4 align="left">Additional Tools:</h4>
-	<a href="https://socket.io/" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40" />
-    </a>
-	<a href="https://git-scm.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" />
-    </a>
-	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/in/products/xd.html" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="xd" width="40" height="40" /> 
-    </a>
-</p>
-<hr>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EzzzzAldin&show_icons=true&count_private=true&include_all_commits=true" alt="EzzzzAldin" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzzzzAldin&layout=compact&langs_count=30" alt="EzzzzAldin" />
 </p>
