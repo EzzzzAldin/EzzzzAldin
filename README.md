@@ -18,7 +18,7 @@ Software Engineer | Full-Stack Developer (Node.js & Laravel) | Programming Instr
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 <p align="left">
