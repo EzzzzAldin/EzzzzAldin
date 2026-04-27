@@ -10,10 +10,9 @@
 ---
 
 ### 📋 About Me
-- 👨‍💻 Currently working as a **Full-Stack Web Developer**, building scalable and user-centric web applications.
-- 🎓 **Telecommunications & Electronics Engineer** with a passion for clean code and system architecture.
-- 👨‍🏫 **Programming Instructor** specializing in Node.js, Express, and Full-Stack development.
-- 🚀 Expert in transforming complex requirements into seamless digital experiences using **MERN Stack** and **Laravel**.
+- Currently working as a **Full-Stack Web Developer**, building scalable and user-centric web applications.
+- **Programming Instructor** specializing in Node.js, Express, and Full-Stack development.
+- Expert in transforming complex requirements into seamless digital experiences using **MERN Stack** and **Laravel**.
 
 ---
 
@@ -26,6 +25,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
 #### ⚙️ Backend & Databases
