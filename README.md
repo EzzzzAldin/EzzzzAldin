@@ -45,9 +45,10 @@ Software Engineer | Full-Stack Developer (Node.js & Laravel) | Programming Instr
 ### Tools & Concepts
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" />
+  
 </p>
 
 ---
