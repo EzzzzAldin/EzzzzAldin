@@ -54,14 +54,8 @@ Software Engineer | Full-Stack Developer (Node.js & Laravel) | Programming Instr
 ---
 
 <p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=EzzzzAldin&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_rank=true&cache_seconds=1800" 
-  />
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzzzzAldin&layout=compact&theme=vision-friendly-dark&langs_count=8&hide=html,css&cache_seconds=1800" 
-  />
+  <img width="48%" src="https://metrics.lecoq.io/EzzzzAldin?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=Africa%2FCairo" />
+  <img width="48%" src="https://metrics.lecoq.io/EzzzzAldin?template=repository&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FCairo" />
 </p>
 
 ---
