@@ -53,9 +53,11 @@ Software Engineer | Full-Stack Developer (Node.js & Laravel) | Programming Instr
 
 ---
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EzzzzAldin&theme=github-dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EzzzzAldin&theme=vision-friendly-dark" />
 </p>
+
 ---
+
 
 ## Connect with Me
 <p align="left">
