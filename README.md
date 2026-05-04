@@ -52,6 +52,9 @@ Software Engineer | Full-Stack Developer (Node.js & Laravel) | Programming Instr
 </p>
 
 ---
+![Metrics](https://raw.githubusercontent.com/EzzzzAldin/EzzzzAldin/main/github-metrics.svg)
+
+---
 
 ## Connect with Me
 <p align="left">
