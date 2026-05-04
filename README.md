@@ -53,12 +53,6 @@ Software Engineer | Full-Stack Developer (Node.js & Laravel) | Programming Instr
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,laravel,mongodb,postgres,git,docker&theme=dark" />
-</p>
----
-
-
 ## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ezzaldinmohamed" target="_blank">
