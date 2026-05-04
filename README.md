@@ -53,13 +53,8 @@ Software Engineer | Full-Stack Developer (Node.js & Laravel) | Programming Instr
 
 ---
 <p align="center">
-  <!-- الكارت الأول: الإحصائيات العامة من سيرفر بديل -->
-  <img width="48%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=EzzzzAldin&show_icons=true&theme=vision-friendly-dark&count_private=true&include_all_commits=true" />
-
-  <!-- الكارت الثاني: الـ Streak (الاستمرارية) وده سيرفر منفصل ومستقر جداً -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EzzzzAldin&theme=vision-friendly-dark" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EzzzzAldin&theme=github-dark" />
 </p>
-
 ---
 
 ## Connect with Me
