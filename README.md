@@ -54,10 +54,8 @@ Software Engineer | Full-Stack Developer (Node.js & Laravel) | Programming Instr
 ---
 
 <p align="center">
-  <img width="48%" src="https://metrics.lecoq.io/EzzzzAldin?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=Africa%2FCairo" />
-  <img width="48%" src="https://metrics.lecoq.io/EzzzzAldin?template=repository&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa%2FCairo" />
+  <img src="https://github.com/EzzzzAldin/EzzzzAldin/blob/main/github-metrics.svg" />
 </p>
-
 ---
 
 ## Connect with Me
