@@ -54,11 +54,8 @@ Software Engineer | Full-Stack Developer (Node.js & Laravel) | Programming Instr
 ---
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=EzzzzAldin&theme=vision-friendly-dark&hide_border=true"
-  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,laravel,mongodb,postgres,git,docker&theme=dark" />
 </p>
-
 ---
 
 
